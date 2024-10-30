@@ -4,6 +4,5 @@ public class CalculadorImpuestosFrancia implements CalculadorImpuestos{
     @Override
     public void calcularImpuestos(double valor) {
         System.out.println("CALCULANDO IMPUESTOS FRANCIA");
-        // Lógica específica para calcular impuestos en Francia
     }
 }
